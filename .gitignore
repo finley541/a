@@ -1,0 +1,14 @@
+# Ignore everything
+*
+
+# Allow folders
+!*/
+
+# Allow only root-level Lua files ending with _
+!*_.lua
+
+# Also allow Games.lua
+!Games.lua
+
+# Keep gitignore
+!.gitignore
