@@ -9,9 +9,14 @@ return {
         Url = "https://raw.githubusercontent.com/finley541/a/refs/heads/main/Arsenal_.lua",
     },
 
+    [2534724415] = {
+        Name = "Emergency Response Liberty County",
+        Url = "https://raw.githubusercontent.com/finley541/a/refs/heads/main/ERLC_.lua",
+    },
+
     [185655149] = {
         Name = "Bloxburg",
-        Url = "https://raw.githubusercontent.com/finley541/a/refs/heads/main/Bloxburg_.lua"
+        Url = "https://raw.githubusercontent.com/finley541/a/refs/heads/main/Bloxburg_.lua",
     },
 
     [142823291] = {
